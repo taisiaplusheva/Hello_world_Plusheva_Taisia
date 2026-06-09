@@ -1,0 +1,8 @@
+age_years: variance = 4.25, std = 2.06, variation coefficient = 44.20%
+weight_kg: variance = 718.08, std = 26.80, variation coefficient = 38.42%
+length_cm: variance = 681.50, std = 26.11, variation coefficient = 17.43%
+shoulder_height_cm: variance = 137.81, std = 11.74, variation coefficient = 14.75%
+tusk_length_cm: variance = 26.13, std = 5.11, variation coefficient = 49.87%
+litter_size: variance = 8.10, std = 2.85, variation coefficient = 72.74%
+health_score: variance = 279.11, std = 16.71, variation coefficient = 22.23%
+territory_ha: variance = 3.60, std = 1.90, variation coefficient = 44.71%

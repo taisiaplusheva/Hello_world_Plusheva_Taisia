@@ -1,0 +1,8 @@
+age_years               4.662500
+weight_kg              69.742500
+length_cm             149.757500
+shoulder_height_cm     79.595500
+tusk_length_cm         10.251000
+litter_size             3.913043
+health_score           75.150000
+territory_ha            4.243000
